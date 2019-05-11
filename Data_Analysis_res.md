@@ -1,27 +1,23 @@
-# -*- coding: utf-8 -*-
 """
+# -*- coding: utf-8 -*-
 Created on Sun Apr 21 22:47:04 2019
 
 @author: Administrator
 """
 ---
 
-#数据科学
-Data science is a multi-disciplinary field that uses scientific methods, processes,
-algorithms and systems to extract knowledge and insights from data in various forms,
-both structured and unstructured, similar to data mining.
-Data science is a "concept to unify statistics, data analysis, machine learning and their
-related methods" in order to "understand and analyze actual phenomena" with data.
-数据科学是一个多学科领域，使用科学的方法、过程、算法和系统从数据中提取知识和见解，无论是结构化的
-还是非结构化的，类似于数据挖掘。
-数据科学是一个“统一统计、数据分析、机器学习及其相关方法的概念”，目的是利用数据“理解和分析实际现象”。
-它采用了在数学、统计、信息科学和计算机科学的背景下从多个领域汲取的技术和理论。
----
+#数据科学  
+Data science is a multi-disciplinary field that uses scientific methods, processes,algorithms and systems to extract knowledge and insights from data in various forms,both structured and unstructured, similar to data mining.
+Data science is a "concept to unify statistics, data analysis, machine learning and theirrelated methods" in order to "understand and analyze actual phenomena" with data.
 
+数据科学是一个多学科领域，使用科学的方法、过程、算法和系统从数据中提取知识和见解，无论是结构化的还是非结构化的，类似于数据挖掘。  
+数据科学是一个“统一统计、数据分析、机器学习及其相关方法的概念”，目的是利用数据“理解和分析实际现象”。  
+它采用了在数学、统计、信息科学和计算机科学的背景下从多个领域汲取的技术和理论。
+
+---
 ■数据科学家
-数据科学家是指能采用科学方法、运用数据挖掘工具对复杂多量的数字、符号、文字、网址、音频或视频等信息
-进行数字化重现与认识，并能寻找新的数据洞察的工程师或专家(不同于统计学家或分析师)。
-一个优秀的数据科学家需要具备的素质有：
+数据科学家是指能采用科学方法、运用数据挖掘工具对复杂多量的数字、符号、文字、网址、音频或视频等信息进行数字化重现与认识，并能寻找新的数据洞察的工程师或专家(不同于统计学家或分析师)。  
+一个优秀的数据科学家需要具备的素质有：  
 ●懂数据采集
 ●懂数学算法
 ●懂数学软件
@@ -30,7 +26,7 @@ related methods" in order to "understand and analyze actual phenomena" with data
 ●懂市场应用
 ●懂决策分析等
 
-要成为一名数据科学家，你需要以下能力
+要成为一名数据科学家，你需要以下能力：  
 ●敏锐的商业头脑
 ●真正的大数据专业知识
 ●认识数据的能力
@@ -39,7 +35,7 @@ related methods" in order to "understand and analyze actual phenomena" with data
 ●有能力沟通并理解管理人员正在试图解决哪些问题
 ●能正确评估付你工资所能带来的回报（ROI）或效益提升
 
-数据科学家的六种能力：
+数据科学家的六种能力：  
 1.对数据的提取与综合能力；
 2.统计分析能力；
 3.数据洞察与信息挖掘能力；
@@ -47,21 +43,21 @@ related methods" in order to "understand and analyze actual phenomena" with data
 5.网络编程能力；
 6.数据的可视化表示能力。
 
-数据科学家涉及学科：
-1.计算机科学：数据获取、数据解析、数据存放、和数据安全
-2.数理统计学：数据分析、数据过滤、数据挖掘、和数据优化
-3.图形设计学：显示数据结果，比如将数据表达成三维图形，以便更好地理解和利用
-4.人机交互学：在用户和数据之间建立有机联系，使得人对数据的使用更方便
+数据科学家涉及学科：  
+1.计算机科学：数据获取、数据解析、数据存放、和数据安全  
+2.数理统计学：数据分析、数据过滤、数据挖掘、和数据优化  
+3.图形设计学：显示数据结果，比如将数据表达成三维图形，以便更好地理解和利用  
+4.人机交互学：在用户和数据之间建立有机联系，使得人对数据的使用更方便  
 
-Mordern data scientist  现代数据科学家
-	• math & statistics
-	• machine learning
-	• statistical modeling
-	• experiment design
-	• bayesian inference
-	• supervised learning:decision trees,random forests,logistic regression
-	• unsupervised learning:clustering,dimensionality reducion
-	• optimization:gradient descent and variants
+Mordern data scientist  现代数据科学家  
+	• math & statistics  
+	• machine learning  
+	• statistical modeling  
+	• experiment design  
+	• bayesian inference  
+	• supervised learning:decision trees,random forests,logistic regression  
+	• unsupervised learning:clustering,dimensionality reducion  
+	• optimization:gradient descent and variants  
 
 	• 数学与统计学
 	• 机器学习
@@ -132,7 +128,7 @@ Mordern data scientist  现代数据科学家
 
 ###  Data Analysis 数据分析
 
-# ■定义
+# 定义
 Data analysis is a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, while being used in different business, science, and social science domains.  
 In today's business, data analysis is playing a role in making decisions more scientific and helping the business achieve effective operation.
 
@@ -144,7 +140,7 @@ Data mining is a particular data analysis technique that focuses on modeling an
 focusing mainly on business information.  
 数据挖掘是一种特殊的数据分析技术，它专注于建模和知识发现，以实现预测而非纯粹的描述性目的，而商务智能则涵盖了严重依赖于聚合的数据分析
 
-# ■数据分析的几个阶段
+# 数据分析的几个阶段
 典型的数据分析项目有五个执行步骤：
 ●选择分析主题【业务调研，创新思维】
 ●确定方案思路
